@@ -9,5 +9,5 @@ Full-stack software engineer and architect, fractional CTO, running the [elevato
 - 🕰️ They trusted me: Nespresso, IOC, Laurastar, BATA, Swiss Lottery
 - ⚡ Grinding Kaggle, [Roadmap.sh](https://roadmap.sh/u/ejeker), and [LeetCode](https://leetcode.com/u/ericjeker/)
 
-I would ❤️ to help you create your own product.
+I would ❤️ to help you create your own business product.
 The best way to contact me is [LinkedIn](https://www.linkedin.com/in/ericjeker/).
